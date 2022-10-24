@@ -9,7 +9,7 @@ Practice programs for CPJava course
 ### 4.  Modify the index.html to add multiple canvases 
         <canvas> .... </canvas> 
         <canvas> .... </canvas>
-### 4.  Keep the versions updated even if your code is not working. This way I can help debug and offer suggestions.  
+### 5.  Keep the versions updated even if your code is not working. This way I can help debug and offer suggestions.  
 
 [addfile]: addfile.png "addfile"
 [clonerep]: clonerep.png "clonerep"
