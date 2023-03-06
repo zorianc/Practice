@@ -1,0 +1,40 @@
+class Dog {
+
+  int height;
+  float weight;
+
+  Dog() {
+
+    weight = 10.5;
+    height = 5;
+  }
+  Dog(int a1, float a2) {
+    height = a1;
+    weight = a2;
+  }
+
+  int getHeight() {
+
+    return height;
+  }
+
+  float getWeight() {
+
+    return weight;
+  }
+
+  void setHeight(int a1) {
+
+    height = a1;
+  }
+
+  void setWeight(int a2) {
+
+    height = a2;
+  }
+
+  void bark() {
+
+    System.out.println("woof");
+  }
+}
