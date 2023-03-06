@@ -1,0 +1,23 @@
+class FrenchBullDog extends Dog {
+  int intelligenceQ;
+  
+    FrenchBullDog(int iq){
+    intelligenceQ = iq;
+    
+  }
+  
+  int getiq () {
+    return intelligenceQ;
+  }
+  
+  
+  void setiq (int n1) {
+    
+    intelligenceQ = n1;
+  }
+  void bark() {
+   
+    System.out.println("bowwowww");
+   
+  }
+}
